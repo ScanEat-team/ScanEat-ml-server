@@ -11,4 +11,4 @@ google-cloud-firestore
 pyzbar
 pyzbar[scripts]
 pandas
-opencv-python
+opencv-python-headless
