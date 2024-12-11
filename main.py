@@ -7,7 +7,7 @@ from predict import load_model, process_image
 app = FastAPI()
 
 # Load the trained model
-model = load_model("app\ML_Model\Model\model.h5")
+model = load_model("./ML_Model/Model/model.h5")
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
