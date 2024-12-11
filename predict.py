@@ -19,7 +19,7 @@ upc_data['encoded_type'] = label_encoder.fit_transform(upc_data['type'])
 upc_dict = dict(zip(upc_data['upc'], upc_data['type']))
 
 # Function to load the trained model
-def load_model(model_path="app\ML_Model\Model\model.h5"):
+def load_model(model_path="./ML_Model/Model/model.h5"):
     return tf.keras.models.load_model(model_path)
 
 # Function to preprocess and predict the product type based on UPC
