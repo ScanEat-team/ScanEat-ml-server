@@ -9,5 +9,5 @@ python-multipart
 firebase-admin
 google-cloud-firestore
 pyzbar
+pyzbar[scripts]
 pandas
-zbar
