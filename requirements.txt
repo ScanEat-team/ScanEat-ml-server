@@ -1,0 +1,13 @@
+flask
+tensorflow
+numpy
+Pillow
+librosa
+uvicorn
+fastapi
+python-multipart
+firebase-admin
+google-cloud-firestore
+pyzbar
+pandas
+zbar
