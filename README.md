@@ -108,10 +108,10 @@ The API supports classification for upc product realated classes:
 
 |Member|  Student ID  |Path|Contacts|
 | :-----------------------------: | :----------: | :--------------:  | :--------------------------------------------------------------------------------------------------: |
-|   I Putu Aditya Cahya Milano    | C113B4KY1869 | Cloud Computing    |      [LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/AditMilano)          |
-| Muhammad Noor Abdi Ash Shafary  | C467B4KY2972 | Cloud Computing   |       [LinkedIn](https://www.linkedin.com/in/aditmilano/) or [Github](https://github.com/)         |
-|          Eric Armando           | C204B4KY1268 | Cloud Computing   |            [LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/)               |
-|    Andrew Haposan Indrajaya     | C008B4KY0527 | Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/)               |
+|   I Putu Aditya Cahya Milano    | C113B4KY1869 | Cloud Computing    |      [LinkedIn](https://www.linkedin.com/in/aditmilano) or [Github](https://github.com/AditMilano)          |
+| Muhammad Noor Abdi Ash Shafary  | C467B4KY2972 | Cloud Computing   |       [LinkedIn](https://www.linkedin.com/in/muhammad-noor-abdi-ash-shafary-8a58a6257/) or [Github](https://github.com/NoorAbdi)         |
+|          Eric Armando           | C204B4KY1268 | Cloud Computing   |            [LinkedIn](https://www.linkedin.com/in/eric-armando-08bb49197/) or [Github](https://github.com/Xpemburu)               |
+|    Andrew Haposan Indrajaya     | C008B4KY0527 | Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/andrew-haposan-indrajaya-68814b247/) or [Github](https://github.com/AndrewHaposan)               |
 
 
 
@@ -129,7 +129,7 @@ We welcome contributions to improve this API. To contribute:
 ## Deployment Link Website
 
 Web ScanEat :<br>
-[Webset](https://scaneats-website-421390099984.asia-southeast2.run.app/index.html)
+[Website](https://scaneats-website-421390099984.asia-southeast2.run.app/index.html)
 
 
 ## Languages and Tools:
